@@ -11,3 +11,5 @@
 <a href="https://www.mindmeister.com/3351825739/sesi-n-2">
   <img src="https://github.com/Magallanes-at-UTDT/DataViz_shortTalk_1/raw/main/mapVizPic.png" alt="Click me!" />
 </a>
+
+# NEXT: <a href="https://github.com/Magallanes-at-UTDT/DataViz_shortTalk_3" target="_blank">Exercise #3</a>
